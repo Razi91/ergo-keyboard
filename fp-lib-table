@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "lib")(type "KiCad")(uri "${KIPRJMOD}/lib")(options "")(descr ""))
+  (lib (name "nice-nano-kicad-master")(type "KiCad")(uri "${KIPRJMOD}/lib/nice-nano-kicad-master")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "KiCad")(uri "${KIPRJMOD}/lib/keyboard_parts.pretty-master")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/lib/Keebio-Parts.pretty-master")(options "")(descr ""))
+  (lib (name "Enhance")(type "KiCad")(uri "${KIPRJMOD}/lib/Enhance.pretty")(options "")(descr ""))
+  (lib (name "ErgoDone")(type "KiCad")(uri "${KIPRJMOD}/lib/ErgoDone.pretty")(options "")(descr ""))
+  (lib (name "components")(type "KiCad")(uri "${KIPRJMOD}/lib/components")(options "")(descr ""))
+)
