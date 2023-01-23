@@ -1,4 +1,4 @@
-21062073759888940
+21067097372933877
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87612,6 +87612,13 @@ evqwdg001
 6
 6
 components
+evqwdg001_sym
+
+
+0
+8
+6
+components
 kailh_socket_1-5U
 MX-style keyswitch with support for reversible optional Kailh socket
 MX,cherry,gateron,kailh,pg1511,socket
@@ -87632,6 +87639,20 @@ MX,cherry,gateron,kailh,pg1511,socket
 0
 14
 2
+components
+kailh_socket_sym_1U
+MX-style keyswitch with support for reversible optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+12
+2
+components
+solder_switch
+
+
+0
+8
+4
 keyboard_parts
 4P4C
 http://www.assmann.us/specs/A-2004-3-4-LP-N-R_REV00.pdf
