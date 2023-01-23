@@ -2940,7 +2940,7 @@
     (uuid 29682534-0750-4b0d-9c81-581d4025f833)
     (property "Reference" "J1" (id 0) (at 26.67 149.86 0))
     (property "Value" "Cirque_GlidePoint" (id 1) (at 26.67 152.4 0))
-    (property "Footprint" "Connector_Hirose:Hirose_DF3EA-12P-2H_1x12-1MP_P2.00mm_Horizontal" (id 2) (at 30.48 171.45 0)
+    (property "Footprint" "Connector_FFC-FPC:Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal" (id 2) (at 30.48 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 30.48 171.45 0)
@@ -3078,7 +3078,7 @@
       (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
     )
     (path "/29682534-0750-4b0d-9c81-581d4025f833"
-      (reference "J1") (unit 1) (value "Cirque_GlidePoint") (footprint "Connector_Hirose:Hirose_DF3EA-12P-2H_1x12-1MP_P2.00mm_Horizontal")
+      (reference "J1") (unit 1) (value "Cirque_GlidePoint") (footprint "Connector_FFC-FPC:Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal")
     )
     (path "/aa471460-5937-454e-9ee7-1e2d22862f33"
       (reference "JP1") (unit 1) (value "solder_switch") (footprint "components:solder_switch")
